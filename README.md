@@ -16,11 +16,11 @@
 git commit -m "[문제사이트/문제유형]문제이름"
 ```
 
-## PR
-TITLE : NICKNAME/ N 문제(몇 문제인지 명시)
-CONTENT `접근 방법`, `공부한 내용` 정리
+## Pull requests 컨벤션
+* **TITLE** : " NICKNAME/ N 문제(몇 문제인지 명시)"    
+* **CONTENT** : "`접근 방법`, `공부한 내용`" 정리
 
-## 알아두면 좋은정보 
+## 알아두면 좋은정보 (TMI)
 
 ## 언젠간 `골드`가 되겠지
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=suby00)](https://solved.ac/suby00/)
